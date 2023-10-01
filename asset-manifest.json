@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/firebase/static/css/main.af9ac092.css",
+    "main.js": "/firebase/static/js/main.ab35e9c7.js",
+    "static/media/logo.png": "/firebase/static/media/logo.d5957e3b950f610d3a35.png",
+    "index.html": "/firebase/index.html",
+    "main.af9ac092.css.map": "/firebase/static/css/main.af9ac092.css.map",
+    "main.ab35e9c7.js.map": "/firebase/static/js/main.ab35e9c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9ac092.css",
+    "static/js/main.ab35e9c7.js"
+  ]
+}
